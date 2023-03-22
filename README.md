@@ -60,6 +60,11 @@
 
 - [live project](https://shri-sakthi-v.github.io/1-capstone-project-module-1/index.html)
 
+## 🚀 Live Video <a name="live-video"></a>
+
+- [live video ](https://www.loom.com/share/25eae1ac67574939b9766508c9e60d7f)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
