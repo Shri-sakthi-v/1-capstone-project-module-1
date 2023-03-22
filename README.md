@@ -160,7 +160,7 @@ If you like this project please give a star to this project
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank Microverse, my coding partners.
+I would like to thank Microverse team, my coding partners and Cindy chin for the amazing [Website design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
