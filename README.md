@@ -62,8 +62,7 @@
 
 ## 🚀 Live Video <a name="live-video"></a>
 
-- [live video ](https://www.loom.com/share/25eae1ac67574939b9766508c9e60d7f)
-
+- [live video ](https://www.loom.com/share/786d31bc4d07425081894799f3d5bcd8)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,7 +159,7 @@ If you like this project please give a star to this project
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank Microverse team, my coding partners and Cindy chin for the amazing [Website design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015).
+I would like to thank Microverse, my coding partners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
